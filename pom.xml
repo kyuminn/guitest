@@ -4,5 +4,5 @@
   <groupId>org.gittest</groupId>
   <artifactId>gittest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <!-- master에서 수정 -->
 </project>
